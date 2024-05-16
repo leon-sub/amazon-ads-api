@@ -1,0 +1,5 @@
+login = "https://api.amazon.com/auth/o2/token"
+profile = "https://advertising-api.amazon.com/v2/profiles"
+adsList = "https://advertising-api.amazon.com/sp/campaigns/list"
+createReport = "https://advertising-api.amazon.com/reporting/reports"
+reportList = "https://advertising-api.amazon.com/reporting/reports/"
